@@ -4,3 +4,4 @@ test
 尝试分支
 再次尝试分支master
 再次尝试冲突fenzhi
+非fast forward尝试分支
